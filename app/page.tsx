@@ -15,7 +15,7 @@ export default function Portfolio() {
   const [activeSection, setActiveSection] = useState('home');
   const [selectedProject, setSelectedProject] = useState<any>(null);
   const [fadeIn, setFadeIn] = useState(false);
-  const [selectedSeminar, setSelectedSeminar] = useState(null);
+  const [selectedSeminar, setSelectedSeminar] = useState<any>(null);
 
 
   // JSON'ları yükle
