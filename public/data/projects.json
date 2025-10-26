@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Agentic Workflow System with CrewAI and LangGraph",
+    "description": "Developed a multi-agent orchestration system for task planning and document routing. Agentsshared memory and context via LangGraph workflows",
+    "tags": ["CrewAI", "LangGraph", "LangChain", "Python",  "FastAPI"],
+    "image": "projects/project3.png"
+  },
+  {
+    "id": 2,
+    "name": "End-to-End MLOps Migration to Huawei Cloud",
+    "description": "Migrated event-driven pipelines from GCP to Huawei Cloud. Integrated retraining, monitoring (latency, accuracy, drift), and frontend inference",
+    "tags": ["ModelArts", "MLOps", "Kubernetes", "Docker", "Python", "MLflow", "Airflow" ],
+    "image": "projects/project3.png"
+  }
+]

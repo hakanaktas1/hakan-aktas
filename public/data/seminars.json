@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "AI Agent Systems and Design Patterns with Langgraph",
+    "event": "Artificial Intelligence 2025 Summit - Uludag University ",
+    "date": "21 October 2025",
+    "description": "I gave a presentation on AI agent design, explaining popular design patterns and conducting a live demo using LangGraph.",
+    "image": "seminars/seminar1.png"
+  },
+  {
+    "id": 2,
+    "title": "MLOps and Large Language Models",
+    "event": "AI STORM - Bandırma Onyedi Eylül University",
+    "date": "5 May 2025",
+    "description": "I gave a presentation titled “MLOps and Large Language Models” at the AISTORM event held at Bandırma Onyedi Eylül University on May 5th.",
+    "image": "seminars/seminar2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "End-to-End YOLO11 Deployment: From Deep Learning Theory to Scalable GPU Inference",
+    "event": "Artificial Intelligence 2025 Summit - Uludag University",
+    "date": "24 May 2025",
+    "description": "In the presentation, we covered deep learning concepts and YOLO architecture details, trained the official Ultralytics YOLO11 model with PyTorch, optimized it to a TensorRT engine, and deployed it as a scalable GPU-powered Docker service.",
+    "image": "seminars/seminar3.jpg"
+  }
+
+]

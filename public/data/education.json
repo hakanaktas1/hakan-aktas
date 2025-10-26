@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "degree": "Msc Degree in Data Science",
+    "school": "Galatasaray University",
+    "location": "Besiktas, Istanbul",
+    "period": "Jan 2024 - Feb 2025",
+    "details": [
+    "• Academic projects with PySpark, Airflow, and cloud-based data pipelines"]
+  },
+    {
+    "id": 2,
+    "degree": "BSc in Electrical and Electronics Engineering",
+    "school": "Sakarya University",
+    "location": "Sakarya, Turkey",
+    "period": "2018 - 2022",
+    "details": "Focus on automation, control systems, computer vision, and deep learning"
+  }
+]

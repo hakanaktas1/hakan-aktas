@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "AI Engineer",
+    "company": "Huawei",
+    "location": "Istanbul",
+    "period": "04.2024 - Current",
+    "description": "Brief description of your role and responsibilities.",
+    "achievements": [
+      "• Designed agentic systems using LangChain, memory modules, and API integrations.",
+      "• Built LLMOps pipelines with vLLM, ModelArts, and MLflow for versioned model serving.",
+      "• Integrated RAG pipelines using Sentence Transformers and Elasticsearch for chatbot systems",
+      "• Automated pipelines with Airflow and monitored drift using custom metrics (F1, AUC).",
+      "• Deployed scalable AI solutions on cloud infrastructure using Docker and Kubernetes.",
+      "• Collaborated with cross-functional teams to deliver AI-driven products."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist ",
+    "company": "Martur Fompak International",
+    "location": "Istanbul",
+    "period": " Dec 2022 - Apr 2024",
+    "description": "Brief description of your role and responsibilities.",
+    "achievements": [
+      "• Built predictive models (XGBoost, SVM, LSTM) for quality control and forecasting.",
+      "• Deployed models with Flask APIs integrated into real-time dashboards.",
+      "• Applied hyperparameter tuning and missing data imputation techniques"
+    ]
+  },
+    {
+    "id": 3,
+    "title": "Data Scientist Intern",
+    "company": "Martur Fompak International",
+    "location": "Bursa",
+    "period": " Jan 2022 - Jun 2022",
+    "description": "Brief description of your role and responsibilities.",
+    "achievements": [
+      "• Trained computer vision models (YOLO, Faster R-CNN) on internal datasets.",
+      "• Performed data labeling and model evaluation with precision/recall scoring."
+    ]
+  }
+]
